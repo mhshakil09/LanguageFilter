@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Filter</string>
+    <string name="hello_testing">আমার মাথা</string>
+    <!--MainActivity-->
+    <string name="login">লগইন</string>
+    <string name="hint_username">ব্যবহারকারীর নাম</string>
+    <string name="hint_password">পাসওয়ার্ড</string>
+
+    <!--DashBoard-->
+    <string name="profile">প্রোফাইল</string>
+    <string name="calculator">ক্যালকুলেটর</string>
+    <string name="gallery">গ্যালারি</string>
+    <string name="events">ইভেন্টস</string>
+    <string name="links">লিংকস</string>
+    <string name="journals">খতিয়ান</string>
+    <string name="notices">নোটিশ</string>
+    <string name="medicine">মেডিসিন</string>
+    <string name="patient_registration">পেশেন্ট\nরেজিস্ট্রেশন</string>
+    <string name="logout">লগ আউট</string>
+
+    <!--AlertDialog-->
+    <string name="alert_dialog_1">আপনি কি লগ আউট করতে চান?</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="cancel">বাতিল</string>
+
+</resources>

@@ -1,0 +1,29 @@
+
+<resources>
+    <string name="app_name">Language Filter</string>
+    <string name="hello_testing">My head</string>
+    <!--MainActivity-->
+    <string name="login">Log In</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <!--DashBoard-->
+    <string name="profile">Profile</string>
+    <string name="calculator">Calculator</string>
+    <string name="gallery">Gallery</string>
+    <string name="events">Events</string>
+    <string name="links">Links</string>
+    <string name="journals">Journals</string>
+    <string name="notices">Notices</string>
+    <string name="medicine">Medicine</string>
+    <string name="patient_registration">Patient Registration</string>
+    <string name="logout">Logout</string>
+
+    <!--AlertDialog-->
+    <string name="alert_dialog_1">Do you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">No</string>
+
+
+</resources>
