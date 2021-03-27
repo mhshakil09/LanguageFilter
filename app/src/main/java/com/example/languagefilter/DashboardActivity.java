@@ -63,6 +63,13 @@ public class DashboardActivity extends AppCompatActivity {
 
         });
 
+        binding.userName.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(DashboardActivity.this, ""+sessionManager.getUsername(), Toast.LENGTH_SHORT).show();
+            }
+        });
+
         binding.logoutBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

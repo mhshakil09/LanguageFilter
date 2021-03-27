@@ -28,8 +28,10 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:gravity="center"
+            android:fontFamily="@font/cryptofont"
+            android:textSize="18sp"
 
-            tools:text="test"
+            tools:text="My name is ally"
 
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
